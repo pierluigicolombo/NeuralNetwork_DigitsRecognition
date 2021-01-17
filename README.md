@@ -8,3 +8,5 @@ networks.py: file that contains some Neural network definition. These Neural Net
 .gitignore: gitognore for windows so, python language and vscodeIde.
 
 pytorch installed with the command: pip install torch==1.7.1+cpu torchvision==0.8.2+cpu torchaudio===0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
+
+The requirements file automatically set the link for the right torch installation
